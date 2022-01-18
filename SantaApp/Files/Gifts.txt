@@ -1,0 +1,41 @@
+0;0
+1;Compass
+2;Banana
+3;Apple
+4;Joystick
+5;Glasses
+6;Scooter
+7;Lego kit
+8;Toy lightsaber
+9;Bike
+10;Football ball
+11;Pet pig
+12;Pokemon
+13;Digimon
+14;Transformer
+15;Digimon
+16;Barbie doll
+17;Pear Watch
+18;Drone
+19;RC car
+20;Yu-Gi-Oh cards
+21;Moped
+22;Hotwheels car
+23;Plasticene
+24;Power Rangers Figures
+25;Connect Four
+26;Jenga
+27;Slinky
+28;Hula hoop
+29;PS5
+30;PS4
+31;XboX
+32;Rubix Cube
+33;Magna Doodle
+34;Etch-A-Sketch
+35;Furby
+36;Troll
+37;Skateboard
+38;Roller Skates
+39;Battleship
+40;Raving Bonkers

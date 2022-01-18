@@ -1,0 +1,15 @@
+1. Create an easy to navigate console menu - user friendly
+--must be error free
+2. Assign random gifts to the children (To make it easier for Santa)
+
+What this app must do
+1. Print out detailed registry information:
+The amount of assigned "pairs" - gifts and children that we already have assigned in our registry
+Number of unassigned children
+Number of unnasigned gifts
+2. It should be possible for users to add new kids and gifts to the collection of
+Try to create some check that wouldn't allow Santa to add the same child again.
+
+Gifts can repeat - Children cannot
+
+4. Let Santa Manually assign a certain gift to a specific child
