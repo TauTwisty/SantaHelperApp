@@ -6,3 +6,5 @@ Manual on how to setup and run the console app:
 
 5 - Assigns gifts to the children, but not to all
 6 - Assigns gifts to all of the children
+
+The app is all setup, please follow the the available actions.
